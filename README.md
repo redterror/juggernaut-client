@@ -1,6 +1,8 @@
 = Juggernaut
 
-See http://github.com/maccman/juggernaut
+This is a Ruby on Rails client for Juggernaut, extracted from the original git repo.
+
+See http://github.com/maccman/juggernaut for details.
 
 == Copyright
 
